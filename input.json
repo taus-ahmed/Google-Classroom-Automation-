@@ -1,0 +1,20 @@
+{
+  "course": {
+    "name": "Grade 9 Math - Semester 1",
+    "section": "2025",
+    "description": "Mathematics course covering Algebra, Geometry, and Rational Numbers."
+  },
+  "topics": [
+    {"name": "Algebra"},
+    {"name": "Rational Numbers"},
+    {"name": "Geometry"}
+  ],
+  "sub_topics": [
+    {
+      "title": "Introduction to Rational Numbers",
+      "description": "• Definition of Rational Numbers\n• Properties of Rational Numbers\n• Real-life applications",
+      "link": "https://example.com/rational-numbers",
+      "topic": "Rational Numbers"
+    }
+  ]
+}
