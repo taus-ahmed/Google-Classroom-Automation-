@@ -1,0 +1,118 @@
+{
+  "classrooms": [
+    {
+      "name": "Math 101",
+      "section": "A",
+      "description": "Basic Math Class",
+      "teachers": [
+        {
+          "name": "Mr. Smith",
+          "email": "smith@example.com",
+          "subjects": ["Algebra", "Geometry"]
+        }
+      ],
+      "students": [
+        {
+          "name": "Alice Johnson",
+          "email": "alice@example.com",
+          "age": 16,
+          "grade": 10,
+          "courses": ["Math 101"]
+        },
+        {
+          "name": "Bob Williams",
+          "email": "bob@example.com",
+          "age": 17,
+          "grade": 10,
+          "courses": ["Math 101"]
+        }
+      ],
+      "topics": [
+        {
+          "name": "Algebra Basics",
+          "description": "Introduction to algebraic expressions"
+        },
+        {
+          "name": "Geometry Fundamentals",
+          "description": "Basic shapes and theorems"
+        }
+      ]
+    },
+    {
+      "name": "Math 201",
+      "section": "B",
+      "description": "Intermediate Math Class",
+      "teachers": [
+        {
+          "name": "Ms. Davis",
+          "email": "davis@example.com",
+          "subjects": ["Calculus", "Statistics"]
+        }
+      ],
+      "students": [
+        {
+          "name": "Charlie Brown",
+          "email": "charlie@example.com",
+          "age": 17,
+          "grade": 11,
+          "courses": ["Math 201"]
+        },
+        {
+          "name": "Diana Miller",
+          "email": "diana@example.com",
+          "age": 18,
+          "grade": 11,
+          "courses": ["Math 201"]
+        }
+      ],
+      "topics": [
+        {
+          "name": "Calculus 1",
+          "description": "Limits and derivatives"
+        },
+        {
+          "name": "Intro to Statistics",
+          "description": "Basic statistical concepts"
+        }
+      ]
+    },
+    {
+      "name": "Physics 101",
+      "section": "A",
+      "description": "Basic Physics Class",
+      "teachers": [
+        {
+          "name": "Dr. Wilson",
+          "email": "wilson@example.com",
+          "subjects": ["Mechanics", "Thermodynamics"]
+        }
+      ],
+      "students": [
+        {
+          "name": "Eve Taylor",
+          "email": "eve@example.com",
+          "age": 16,
+          "grade": 10,
+          "courses": ["Physics 101"]
+        },
+        {
+          "name": "Frank Anderson",
+          "email": "frank@example.com",
+          "age": 17,
+          "grade": 10,
+          "courses": ["Physics 101"]
+        }
+      ],
+      "topics": [
+        {
+          "name": "Newton's Laws",
+          "description": "Principles of classical mechanics"
+        },
+        {
+          "name": "Heat and Temperature",
+          "description": "Basic thermodynamics"
+        }
+      ]
+    }
+  ]
+}
